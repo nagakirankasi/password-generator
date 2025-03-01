@@ -70,9 +70,10 @@ To ensure the password generator works correctly, run:
 ```bash
 python -m unittest discover tests
 ```
----
 ## 🧪 Demo
 ![password-generator-demo](assets/demo/password-generator-demo.webp)
+
+
 ---
 
 ## 📜 License
